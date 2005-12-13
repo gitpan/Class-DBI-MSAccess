@@ -5,7 +5,7 @@ use strict;
 
 use base qw(Class::DBI);
 
-our $VERSION = '0.1.1';
+our $VERSION = '0.10.2';
 
 sub _auto_increment_value {
     my ($self) = @_;
