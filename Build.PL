@@ -5,7 +5,6 @@ use Module::Build;
 my $builder = Module::Build->new(
     module_name         => 'Class::DBI::MSAccess',
     license             => 'perl',
-    dist_author         => '',
     dist_version_from   => 'lib/Class/DBI/MSAccess.pm',
     sign                => 1,
     create_makefile_pl  => 'passthrough',

@@ -1,5 +1,12 @@
 ---
+version : 0.10.1
+date    : Tue Dec 13 12:45:08 MST 2005
+changes :
+    - Added author to META.yml
+    - Added tests to the MANIFEST
+    - Changed to a three-part version number
+---
 version : 0.01
-date    : 
+date    : Wed Dec  7 14:58:10 MST 2005
 changes :
     - First public release

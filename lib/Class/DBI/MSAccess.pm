@@ -5,7 +5,7 @@ use strict;
 
 use base qw(Class::DBI);
 
-our $VERSION = '0.01';
+our $VERSION = '0.1.1';
 
 sub _auto_increment_value {
     my ($self) = @_;
@@ -147,9 +147,9 @@ L<http://search.cpan.org/dist/Class-DBI-MSAccess>
 Ricardo Signes for writing L<Class::DBI::MSSQL>
 
 =head1 AUTHOR
- 
+
 Michael Hendricks  <michael@palmcluster.org>
- 
+
 =head1 LICENSE AND COPYRIGHT
  
 Copyright (c) 2005 Michael Hendricks (<michael@palmcluster.org>). All rights
